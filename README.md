@@ -1,1 +1,0 @@
-# nixos-docker-compose-stack
